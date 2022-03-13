@@ -1,2 +1,4 @@
 # SudokuGame
-This the sudoku game using cpp
+This the sudoku game using cpp 
+
+Created by Runze in 2021
